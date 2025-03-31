@@ -15,7 +15,6 @@ In Progress , Will complete it within this week.
 ## Please add a URL of your credly page screenshot containing Cloud Quest: Cloud Practitioner
 Profile URL : https://www.credly.com/users/dharshinisri-g
 
-
 # 3 AWS 3 Tier Architecture Implementation
 
 ## Please add the screenshot of the final page of the AWS 3 Tier Architecture Implementation
@@ -24,16 +23,14 @@ Profile URL : https://www.credly.com/users/dharshinisri-g
 ## Please add a URL of your dev.to blog containing the screenshots of AWS 3 Tier Architecture Implementation
 URL: https://dev.to/dharshinisri_g_04a9fda5b6/3-tier-architecture-part-1-2fi9
 
-
 # 4 AWS 101 Workshop
 URL: https://catalog.workshops.aws/aws101/en-US
 
 ## Please add the screenshot of the final page of the AWS 101 Workshop
-[Final Page of the 101 workshop](https://dev.to/dharshinisri_g_04a9fda5b6/aws-101-workshop-14cj)
+![Final Page of the AWS 101 Workshop](https://github.com/user-attachments/assets/2042c3cd-a9fd-4333-b88e-3c9747b35ebe)
 
 ## Please add a URL of your dev.to blog containing the screenshots of AWS 101 Workshop
 URL : https://dev.to/dharshinisri_g_04a9fda5b6/aws-101-workshop-14cj
-
 
 # 5 AWS Service
 
