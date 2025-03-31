@@ -22,7 +22,7 @@ Repo for SIET AWS Assignments
 > Replace this line while adding the screenshot / answer
 
 ## Please add a URL of your dev.to blog containing the screenshots of AWS 3 Tier Architecture Implementation
-https://dev.to/dharshinisri_g_04a9fda5b6/3-tier-architecture-part-1-2fi9
+URL: https://dev.to/dharshinisri_g_04a9fda5b6/3-tier-architecture-part-1-2fi9
 
 
 # 4 AWS 101 Workshop
@@ -38,6 +38,6 @@ URL: https://catalog.workshops.aws/aws101/en-US
 # 5 AWS Service
 
 ## Please add a URL of your dev.to blog containing the details of the AWS service that you took to explore
-https://dev.to/dharshinisri_g_04a9fda5b6/amazon-macie-4npd
+URL: https://dev.to/dharshinisri_g_04a9fda5b6/amazon-macie-4npd
 
 
