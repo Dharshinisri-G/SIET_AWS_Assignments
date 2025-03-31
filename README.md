@@ -22,7 +22,7 @@ Repo for SIET AWS Assignments
 > Replace this line while adding the screenshot / answer
 
 ## Please add a URL of your dev.to blog containing the screenshots of AWS 3 Tier Architecture Implementation
-> Replace this line while adding the screenshot / answer
+https://dev.to/dharshinisri_g_04a9fda5b6/3-tier-architecture-part-1-2fi9
 
 
 # 4 AWS 101 Workshop
