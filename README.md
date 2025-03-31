@@ -38,6 +38,6 @@ URL: https://catalog.workshops.aws/aws101/en-US
 # 5 AWS Service
 
 ## Please add a URL of your dev.to blog containing the details of the AWS service that you took to explore
-> Replace this line while adding the screenshot / answer
+https://dev.to/dharshinisri_g_04a9fda5b6/amazon-macie-4npd
 
 
