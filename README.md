@@ -4,22 +4,21 @@ Repo for SIET AWS Assignments
 # 1 ETC
 
 ## Please add a screenshot of your ETC with 2500+ points, ensuring that your username is clearly visible.
-> Replace this line while adding the screenshot / answer
-
+![ETC Profile with 2420 Points](![image](https://github.com/user-attachments/assets/7dc7ac5b-53d6-4e61-a96a-88226c3fa689)
 
 # 2 AWS Cloud Quest Badge
 
 ## Please add a screenshot of your credly page screenshot containing Cloud Quest: Cloud Practitioner
-> Replace this line while adding the screenshot / answer
+
 
 ## Please add a URL of your credly page screenshot containing Cloud Quest: Cloud Practitioner
-> Replace this line while adding the screenshot / answer
+
 
 
 # 3 AWS 3 Tier Architecture Implementation
 
 ## Please add the screenshot of the final page of the AWS 3 Tier Architecture Implementation
-> Replace this line while adding the screenshot / answer
+![Final Page of the 3-Tier Architecture](https://github.com/user-attachments/assets/a23e753d-c6c2-4a18-b715-8cf7f9c3d04d)
 
 ## Please add a URL of your dev.to blog containing the screenshots of AWS 3 Tier Architecture Implementation
 URL: https://dev.to/dharshinisri_g_04a9fda5b6/3-tier-architecture-part-1-2fi9
@@ -32,7 +31,7 @@ URL: https://catalog.workshops.aws/aws101/en-US
 > Replace this line while adding the screenshot / answer
 
 ## Please add a URL of your dev.to blog containing the screenshots of AWS 101 Workshop
-> Replace this line while adding the screenshot / answer
+URL : https://dev.to/dharshinisri_g_04a9fda5b6/aws-101-workshop-14cj
 
 
 # 5 AWS Service
