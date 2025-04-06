@@ -12,7 +12,7 @@ Repo for SIET AWS Assignments
 ![image of the Cloud Quest: Cloud Practitioner Badge](https://github.com/user-attachments/assets/72a87558-27a9-40b3-b274-cbed5f3de433)
 
 ## Please add a URL of your credly page screenshot containing Cloud Quest: Cloud Practitioner
- URL : ![Url of the Cloud Quest: Cloud Practitioner Badge](https://www.credly.com/badges/4cafd27f-edbd-4fa3-875a-91da8e505f77/public_url)
+ URL : https://www.credly.com/badges/4cafd27f-edbd-4fa3-875a-91da8e505f77/public_url
 
 # 3 AWS 3 Tier Architecture Implementation
 
